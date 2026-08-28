@@ -1,0 +1,4 @@
+interface:
+  display_name: "LINEスタンプクリエイター"
+  short_description: "参考画像からLINEスタンプ一式を生成・検収・梱包"
+  default_prompt: "Use $line-stamp-creator to turn an approved reference image and expression set into LINE Creators Market-ready stamp files."
